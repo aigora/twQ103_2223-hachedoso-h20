@@ -1,11 +1,13 @@
-# [Título del trabajo]
+# HcheDosO_H2O
 
 [Descripción breve del proyecto a realizar (2-3 frases).]
 
 ## Integrantes del equipo
 
-[Nombres, apellidos, y usuario GitHub de los integrantes del equipo.]
+Javier, Juez, 
+
+Gala, Botija, galaabotija
 
 ## Objetivos del trabajo
 
-[Lista de los objetivos que se persiguen con el trabajo propuesto.]
+Desarrollar un programa que acumule y muestre los datos de ph, etc de varias fuentes de Madrid. 
