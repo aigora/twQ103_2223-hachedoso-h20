@@ -1,4 +1,4 @@
-# HcheDosO_H2O
+# HacheDosO_H2O
 
 [Descripción breve del proyecto a realizar (2-3 frases).]
 
