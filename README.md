@@ -4,7 +4,7 @@
 
 ## Integrantes del equipo
 
-Javier, Juez, 
+Javier, Juez, jjuezz
 
 Gala, Botija, galaabotija
 
